@@ -39,3 +39,7 @@ export enum FeatureType {
 export interface MapFeatures {
   data: Feature[]
 }
+
+export interface Places {
+  places: WeddingWeiserGeoJSON
+}

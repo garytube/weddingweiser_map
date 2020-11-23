@@ -1,18 +1,23 @@
-import React from 'react';
+import React, { ReactElement } from 'react';
+import { Properties } from '../../types/geojson';
 
+interface MarkerProps {
+  text: string | number
+  lat: number
+  lng: number
+  children?: ReactElement
+}
 
-const Marker = (props: any) => {
+const Marker = ({ children, text }: MarkerProps) => {
+
+  const markerStyle = { height: '9px', width: '24px', borderRadius: '50%', marginTop: '-3px' }
+
   return (
-    <>
-      {props?.status == 'unpublished' ?
-        <div className="w-4 h-4 rounded-full bg-wedding opacity-80">
-          {props.children}
-        </div>
-        : <div className="w-5 h-5 rounded-full bg-blue-600 opacity-80">
-          {/* {props.children} */}
-        </div>
-      }
-    </>
+    <div className="rounded-full relative">
+      {children}
+      <img src="/assets/marker.svg" alt="" />
+      <div style={markerStyle} className="block bg-black opacity-25"></div>
+    </div>
   );
 };
 

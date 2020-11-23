@@ -13,8 +13,7 @@ const Layout: FunctionComponent<LayoutProps> = ({ children, title }) => (
       <title>{title} | die schönen Seiten des Wedding</title>
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </Head>
-    <header className="px-5 py-4 shadow-sm"
-    >
+    <header className="px-5 py-4 shadow-lg z-10 relative">
       <Image
         src="/assets/logo_black.png"
         alt="die schönen Seiten des Wedding"
