@@ -1,0 +1,4973 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365,
+          52.5458
+        ]
+      },
+      "properties": {
+        "id": 1178,
+        "date": "2012-03-16 18:50:40",
+        "title": "Antonkiez: Kein Totentanz im Kiez rund um den Urnenfriedhof",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=1178",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2012/03/prinz-eugen-str-e1423469806859.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3608,
+          52.5462
+        ]
+      },
+      "properties": {
+        "id": 1679,
+        "date": "2012-05-24 11:33:36",
+        "title": "\"Bünger\": Traditionsreiche Neuland-Fleischerei",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=1679",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/03/fleischerei-bc3bcnger-wurst-kc3a4se.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3592,
+          52.5426
+        ]
+      },
+      "properties": {
+        "id": 1874,
+        "date": "2012-07-22 08:32:21",
+        "title": "\"Bioladen\": Das Wohlfühl-Konzept",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=1874",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/02/Bio-Bäcker-Backwaren-Bio-Company-116x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3531,
+          52.5498
+        ]
+      },
+      "properties": {
+        "id": 3012,
+        "date": "2012-09-09 15:58:09",
+        "title": "Asia Deli - nichts ist, wie es scheint – sondern viel besser",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=3012",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/02/20190212_174434-300x219.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3516,
+          52.5491
+        ]
+      },
+      "properties": {
+        "id": 7695,
+        "date": "2013-12-19 08:00:40",
+        "title": "VAGABUND Brauerei: In Ruhe reifen",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=7695",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2013/12/vagabund-bucc88ndel-e1435648627398.jpg?w=225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3622,
+          52.5494
+        ]
+      },
+      "properties": {
+        "id": 8540,
+        "date": "2014-03-04 06:27:58",
+        "title": "Auf der Suche nach dem verlorenen Glück: Gefunden.",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=8540",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2014/03/dsc_0167-1.jpg?w=200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385,
+          52.552
+        ]
+      },
+      "properties": {
+        "id": 20967,
+        "date": "2014-07-09 09:44:57",
+        "title": "\"Shalimar\": seit Jahrzehnten ein pakistanischer Farbtupfer im Kiez",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=20967",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/07/shalimar.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504,
+          52.5503
+        ]
+      },
+      "properties": {
+        "id": 10726,
+        "date": "2014-09-05 07:21:15",
+        "title": "Der Kartoffelladen von Bauer Reppin: Direkt vom Hof in den Wedding",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=10726",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/12/Kartoffelladen.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3586,
+          52.5516
+        ]
+      },
+      "properties": {
+        "id": 12117,
+        "date": "2015-01-04 15:43:20",
+        "title": "Kunst- und Kulturbar „Mastul“",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=12117",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/01/2-1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3335,
+          52.5615
+        ]
+      },
+      "properties": {
+        "id": 12295,
+        "date": "2015-01-23 07:15:46",
+        "title": "\"Papadam\": Indisch essen in der Vorstadt",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=12295",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/01/papadam-scharnweberstr-e1421652598519-1.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3506,
+          52.5495
+        ]
+      },
+      "properties": {
+        "id": 1273,
+        "date": "2015-02-03 08:12:08",
+        "title": "Phönicia: Falafel statt Döner",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=1273",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/02/Theke-Phönicia-300x169.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3694,
+          52.543
+        ]
+      },
+      "properties": {
+        "id": 13698,
+        "date": "2015-04-20 07:58:14",
+        "title": "Bio-Bäckerei Bucco: Von Hand statt mit Chemie",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=13698",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/04/bio-bacc88ckerei-bucco-arbeitsgeracc88te1-1.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3802,
+          52.5539
+        ]
+      },
+      "properties": {
+        "id": 14985,
+        "date": "2015-07-04 07:06:19",
+        "title": "„Wilma“: Bar mit Enten-Charme",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=14985",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/07/Wilma-Travemünder-Str-300x180.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3648,
+          52.5502
+        ]
+      },
+      "properties": {
+        "id": 14987,
+        "date": "2015-07-04 11:32:24",
+        "title": "Es kühlt ab! Eis am Leopoldplatz von der Eismanufaktur-Berlin",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=14987",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/07/p7030210-1.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3524,
+          52.5408
+        ]
+      },
+      "properties": {
+        "id": 20799,
+        "date": "2015-07-05 13:03:13",
+        "title": "Baguetterie: Leckeres Backwerk an der Torfstraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=20799",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/07/Baguetterie-Torfstr-300x221.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3938,
+          52.5541
+        ]
+      },
+      "properties": {
+        "id": 15063,
+        "date": "2015-07-08 09:10:06",
+        "title": "Mein Lieblingscafé Miss Ploff",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=15063",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/07/bagel-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3497,
+          52.5495
+        ]
+      },
+      "properties": {
+        "id": 15226,
+        "date": "2015-07-17 14:01:33",
+        "title": "MiLette ehem. \"Kelly's Eis & Espresso\" auf der Togostraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=15226",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/07/sam0254-2.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376,
+          52.551
+        ]
+      },
+      "properties": {
+        "id": 21148,
+        "date": "2015-07-18 07:37:06",
+        "title": "Restaurant \"Uferlos\": Leuchtturm an der Panke",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=21148",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/04/IMG-20190420-WA0021-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4,
+          52.547
+        ]
+      },
+      "properties": {
+        "id": 19174,
+        "date": "2016-04-03 08:20:57",
+        "title": "Eine Tortenwerkstatt für alle Fälle",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=19174",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/04/tortenwerkstatt3.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34,
+          52.5545
+        ]
+      },
+      "properties": {
+        "id": 1362,
+        "date": "2016-04-06 09:29:59",
+        "title": "\"Sole Mio\": Wie vor zwanzig Jahren",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=1362",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2012/04/Sole-mio-237x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348,
+          52.5547
+        ]
+      },
+      "properties": {
+        "id": 20102,
+        "date": "2016-05-26 07:34:46",
+        "title": "Mit Druck und Temperatur: Die Espresso Ambulance",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=20102",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/05/roggeronald-12-1330612.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3624,
+          52.555
+        ]
+      },
+      "properties": {
+        "id": 20571,
+        "date": "2016-06-24 07:43:31",
+        "title": "Das koreanische Restaurant \"Sam Yuk Gu\"",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=20571",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/06/img_1033wb.jpg?w=200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3862,
+          52.5519
+        ]
+      },
+      "properties": {
+        "id": 21318,
+        "date": "2016-08-04 08:00:37",
+        "title": "Auf ein Schwätzchen ins Il Milanese",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=21318",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/07/espresso-kaffeemaschine-w-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3515,
+          52.5411
+        ]
+      },
+      "properties": {
+        "id": 21610,
+        "date": "2016-08-17 08:51:37",
+        "title": "UNI Burger: Imbiss mit Straßenleben",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=21610",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/08/wp-1471103072838.jpeg?w=246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3586,
+          52.5516
+        ]
+      },
+      "properties": {
+        "id": 21737,
+        "date": "2016-08-31 08:45:04",
+        "title": "Schraders: Der Allrounder im Kiez",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=21737",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/03/IMG-20190328-WA0005-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3614,
+          52.5489
+        ]
+      },
+      "properties": {
+        "id": 26402,
+        "date": "2016-10-26 08:30:59",
+        "title": "GESCHLOSSEN: Die Pâtisserie GàTô",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=26402",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/10/GaTo-Foto-Christoph-Neubert-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3531,
+          52.5498
+        ]
+      },
+      "properties": {
+        "id": 26451,
+        "date": "2016-10-28 08:10:54",
+        "title": "Lei's Küche: Der Hotspot für Hotpot",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=26451",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/10/Xiao-Chuan1-300x169.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.345,
+          52.5553
+        ]
+      },
+      "properties": {
+        "id": 26574,
+        "date": "2016-11-09 08:00:00",
+        "title": "GESCHLOSSEN Diamantfabrikken: Ein Schmuckstück im grauen Kiez",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de?p=26574&#038;preview=true&#038;preview_id=26574",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/11/Schakschuka-Diamantfabrikken-200x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3596,
+          52.5506
+        ]
+      },
+      "properties": {
+        "id": 11694,
+        "date": "2016-11-22 08:26:48",
+        "title": "\"PARMA di Vinibenedetti\": Italienische Gaumenfreuden im Wedding",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=11694",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2014/11/parma-italienische-feinkost-c-claudia-adrian-4-e1416554491644-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377,
+          52.553
+        ]
+      },
+      "properties": {
+        "id": 27927,
+        "date": "2017-01-12 08:08:20",
+        "title": "Kater & Goldfisch: Pastrami, Kuchen & Co.",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=27927",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/01/KaterGoldfisch-FotoChristophNeubert8-w-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.374,
+          52.551
+        ]
+      },
+      "properties": {
+        "id": 8392,
+        "date": "2017-02-20 07:52:44",
+        "title": "Analogbar – Digital bleibt draußen",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=8392",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2014/02/analogbar-2-1.jpg?w=200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3863,
+          52.5524
+        ]
+      },
+      "properties": {
+        "id": 28809,
+        "date": "2017-02-22 07:45:52",
+        "title": "Das pakistanische Restaurant Shalimar – Ein Geheimtipp",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=28809",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/02/shalimar_innen2-300x192.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504,
+          52.5503
+        ]
+      },
+      "properties": {
+        "id": 28955,
+        "date": "2017-02-27 08:10:05",
+        "title": "Café Zaunkönig: Ein Spielplatz mitten im Café",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=28955",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/02/zaunkoenig3-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3755,
+          52.5535
+        ]
+      },
+      "properties": {
+        "id": 31628,
+        "date": "2017-06-28 08:00:51",
+        "title": "Aequa CC, ehem. be'kech: Verbring' hier deine Zeit!",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=31628",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/06/Be-Kech-Buffet-180x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3734,
+          52.544
+        ]
+      },
+      "properties": {
+        "id": 31652,
+        "date": "2017-06-29 08:00:16",
+        "title": "Ein Abend mit \"ART & PIZZA\"",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=31652",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/06/10888401_304284766447817_2580638256208043450_n-300x224.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376,
+          52.551
+        ]
+      },
+      "properties": {
+        "id": 15026,
+        "date": "2017-07-07 07:30:46",
+        "title": "Glücklichsein im \"Dujardin\"...",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=15026",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/06/Dujardin-aussen-300x122.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3566,
+          52.5431
+        ]
+      },
+      "properties": {
+        "id": 31325,
+        "date": "2017-07-07 08:10:26",
+        "title": "Brauerei Schneeeule: Verliebt in Berliner Weiße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=31325",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/06/IMG_20170618_161753_933-196x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3923,
+          52.5459
+        ]
+      },
+      "properties": {
+        "id": 15406,
+        "date": "2017-07-24 12:07:46",
+        "title": "Medienmeister \"Eis Henri\"",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=15406",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/07/Eis-bei-Eis-Henri-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3678,
+          52.5479
+        ]
+      },
+      "properties": {
+        "id": 32450,
+        "date": "2017-08-05 08:00:36",
+        "title": "Moritz Bar: Die Bar, auf die der Kiez gewartet hat",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=32450",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/08/Moritz-Bar-Stimmung-2-Bild-Lena-Meyer-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3865,
+          52.5592
+        ]
+      },
+      "properties": {
+        "id": 32809,
+        "date": "2017-08-24 08:12:14",
+        "title": "Limo, Frühstück und Geschichte im Rosa Parks Café",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=32809",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/08/P8130287-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3584,
+          52.5475
+        ]
+      },
+      "properties": {
+        "id": 33009,
+        "date": "2017-08-29 07:30:59",
+        "title": "Coffee Star: Etwas Glück für den Weddinger Morgen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=33009",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/08/coffee-star-aussen-300x229.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3675,
+          52.5483
+        ]
+      },
+      "properties": {
+        "id": 32319,
+        "date": "2017-09-06 06:50:22",
+        "title": "Totem: Bilderbücher für Groß und Klein",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=32319",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/07/DSC_0041-e1501264916787-169x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4003,
+          52.5395
+        ]
+      },
+      "properties": {
+        "id": 33224,
+        "date": "2017-09-08 08:02:45",
+        "title": "Supersonico: Wo die Sonne immer scheint",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=33224",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/09/supersonico_karte-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3904,
+          52.5573
+        ]
+      },
+      "properties": {
+        "id": 33400,
+        "date": "2017-09-27 08:07:14",
+        "title": "Community Kitchen: Kakadu im Soldiner daheim",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=33400",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/09/Kakadu-C-Kakadu-300x169.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3802,
+          52.5539
+        ]
+      },
+      "properties": {
+        "id": 32943,
+        "date": "2017-10-02 08:12:40",
+        "title": "Café Luise: Das für den Kiez",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=32943",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/08/IMG_20170821_122547_1-300x180.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3654,
+          52.552
+        ]
+      },
+      "properties": {
+        "id": 11026,
+        "date": "2017-10-10 08:59:25",
+        "title": "Pizzeria \"Stranero\": Wo der Wedding nach Italien schmeckt",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=11026",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/01/Stranero-Pizza-2-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3734,
+          52.544
+        ]
+      },
+      "properties": {
+        "id": 33669,
+        "date": "2017-10-11 07:26:25",
+        "title": "Louis Alfons: Auf den Burger gekommen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=33669",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/10/BurgervonFB-300x163.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3862,
+          52.5519
+        ]
+      },
+      "properties": {
+        "id": 33872,
+        "date": "2017-10-22 08:53:22",
+        "title": "Unbeugsamer Badstraßenkiez",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=33872",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/11/Badstr-Pankstr-Boateng-Wandbild-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.352,
+          52.5513
+        ]
+      },
+      "properties": {
+        "id": 32278,
+        "date": "2017-10-24 08:54:57",
+        "title": "Imren-Grill: Begehrenswert!",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=32278",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/07/Imren-2-3-169x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3636,
+          52.5499
+        ]
+      },
+      "properties": {
+        "id": 34031,
+        "date": "2017-11-10 08:11:54",
+        "title": "GESCHLOSSEN Antik Café: Ein neuer Stern am Leo",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=34031",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/11/antik-cafe-2-an3-ww-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3596,
+          52.5506
+        ]
+      },
+      "properties": {
+        "id": 33977,
+        "date": "2017-11-24 08:45:01",
+        "title": "Ins Café Largo zum Wohlfühlen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=33977",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/11/IMG_20171105_114829_951-300x218.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3599,
+          52.5473
+        ]
+      },
+      "properties": {
+        "id": 34736,
+        "date": "2017-12-08 08:02:24",
+        "title": "The Visit - Vorbote einer neuen Generation Cafés am Leo",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=34736",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/12/The-Visit-innen-2-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3601,
+          52.5469
+        ]
+      },
+      "properties": {
+        "id": 34376,
+        "date": "2017-12-22 08:30:08",
+        "title": "Für wen sich der Ökomarkt auf dem Leo lohnt",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=34376",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/11/Frische-Karotten-Wirsing-Kohl-277x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3496,
+          52.5418
+        ]
+      },
+      "properties": {
+        "id": 35397,
+        "date": "2018-01-12 07:46:44",
+        "title": "SPICE: Vietnamesisch essen im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=35397",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/01/SPICE-300x244.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3301,
+          52.5636
+        ]
+      },
+      "properties": {
+        "id": 35303,
+        "date": "2018-01-13 08:10:29",
+        "title": "Kutschi: Einflugschneise in den nördlichen Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=35303",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/01/Kurt-Schumacher-Platz-U-Bahnhof-300x199.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3966,
+          52.557
+        ]
+      },
+      "properties": {
+        "id": 33481,
+        "date": "2018-01-24 08:18:41",
+        "title": "Auf Abruf: Kugelbahn Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=33481",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/09/Kugelbahn3-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3448,
+          52.5556
+        ]
+      },
+      "properties": {
+        "id": 35591,
+        "date": "2018-02-09 08:18:02",
+        "title": "Der KneipenKult bewahrt die Kneipenkultur",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=35591",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/01/Kneipenkult-innen-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3829,
+          52.5533
+        ]
+      },
+      "properties": {
+        "id": 35881,
+        "date": "2018-02-16 08:10:42",
+        "title": "Yöre Gözleme: Anatolische Spezialitäten in der Prinzenallee",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=35881",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/02/Yöre-Gözleme-Restaurant-e1517408114240-neu-258x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386,
+          52.5559
+        ]
+      },
+      "properties": {
+        "id": 8241,
+        "date": "2018-02-18 07:39:07",
+        "title": "Labyrinth Kindermuseum Berlin: Spielerisch die Welt entdecken",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=8241",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2014/02/kindermuseum2-1.jpg?w=300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3814,
+          52.56
+        ]
+      },
+      "properties": {
+        "id": 35456,
+        "date": "2018-02-23 08:00:24",
+        "title": "Tagescafé Baobab in der Soldiner Straße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=35456",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/02/baobab-innen-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3352,
+          52.5515
+        ]
+      },
+      "properties": {
+        "id": 36134,
+        "date": "2018-02-24 08:17:15",
+        "title": "Parkcafé Rehberge: Denkmalschutz ist gegen Abriss",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36134",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2012/05/dscn4320-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.374,
+          52.551
+        ]
+      },
+      "properties": {
+        "id": 12724,
+        "date": "2018-02-26 10:42:49",
+        "title": "Piano Salon Christophori: Klavierkonzerte in der Werkstatt",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.wordpress.com/?p=12724",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/02/piano-salon-christophori-c-julia-wernicke.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3752,
+          52.5541
+        ]
+      },
+      "properties": {
+        "id": 36408,
+        "date": "2018-03-01 08:00:21",
+        "title": "Feierabendbier an der be'kech-Bar",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36408",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/02/opening-flyer-300x124.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3865,
+          52.5562
+        ]
+      },
+      "properties": {
+        "id": 36659,
+        "date": "2018-03-10 08:10:59",
+        "title": "Nähcafé: Eine Verabredung mit Nadel und Faden",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36659",
+        "thumbnail": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F400486722&amp;visual=true&amp;color=%23344c54&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3485,
+          52.5477
+        ]
+      },
+      "properties": {
+        "id": 36687,
+        "date": "2018-03-13 08:15:46",
+        "title": "Ronald McDonald Haus: Ein Heim für schwierige Zeiten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36687",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/03/Redner-Jubiläumsempfang-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3606,
+          52.5542
+        ]
+      },
+      "properties": {
+        "id": 36096,
+        "date": "2018-03-16 08:05:56",
+        "title": "Kantine N°1: Ein Lichtstrahl für den Osramkiez",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36096",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/02/Kantine-Nr.1-2-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3978,
+          52.5451
+        ]
+      },
+      "properties": {
+        "id": 36791,
+        "date": "2018-03-20 07:38:14",
+        "title": "Alte Karten und Stadtpläne beim Geschichtscafé",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36791",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/03/Niklaas-Goersch-200x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3561,
+          52.5417
+        ]
+      },
+      "properties": {
+        "id": 36894,
+        "date": "2018-03-21 08:10:18",
+        "title": "\"Bei Ernst\" ist Schluss: Ich darf nicht traurig sein!",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36894",
+        "thumbnail": "http://www.hansikraus.alfahosting.org/wi.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385,
+          52.5569
+        ]
+      },
+      "properties": {
+        "id": 8657,
+        "date": "2018-03-22 07:00:38",
+        "title": "Tapas-Bar El Pepe - Kurzurlaub in der Prinzenallee",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=8657",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2014/03/el-pepe4-1.jpg?w=200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392,
+          52.5554
+        ]
+      },
+      "properties": {
+        "id": 36957,
+        "date": "2018-03-22 12:57:53",
+        "title": "Abgewehrt: Weniger Abwasser in die Panke!",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36957",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/03/Wehr-im-Abwasserkanal3-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3842,
+          52.554
+        ]
+      },
+      "properties": {
+        "id": 36230,
+        "date": "2018-03-23 09:02:04",
+        "title": "Fleischerei Haroun: Vertrauenssache",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36230",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/02/Haroun-3-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3922,
+          52.554
+        ]
+      },
+      "properties": {
+        "id": 36833,
+        "date": "2018-03-27 08:04:26",
+        "title": "Dilekerei: Die ganze Welt auf einem Kuchenteller",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36833",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/03/Brownie_AOertel-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3788,
+          52.5539
+        ]
+      },
+      "properties": {
+        "id": 37181,
+        "date": "2018-03-31 08:10:32",
+        "title": "Weiter unverblümt durch den Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37181",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/03/TuerkischesSchattentheater-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3363,
+          52.5524
+        ]
+      },
+      "properties": {
+        "id": 36674,
+        "date": "2018-04-01 08:00:57",
+        "title": "Wedding bekommt ein französisches Viertel",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36674",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/08/20841849_1325107914282366_3701593691189643726_n-212x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.356,
+          52.5443
+        ]
+      },
+      "properties": {
+        "id": 37270,
+        "date": "2018-04-02 08:12:49",
+        "title": "Kritische Hochschule: Kostenfreie Workshops und Vorträge",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37270",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/facebook_kow.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3841,
+          52.5543
+        ]
+      },
+      "properties": {
+        "id": 35987,
+        "date": "2018-04-06 08:03:20",
+        "title": "Borik: Darf es mal rustikal sein?",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=35987",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/02/Borik-2-300x214.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3576,
+          52.5481
+        ]
+      },
+      "properties": {
+        "id": 36455,
+        "date": "2018-04-09 08:00:42",
+        "title": "Widerstandskämpfer werden mit Weg geehrt",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=36455",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2012/05/dscn4679-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3802,
+          52.5593
+        ]
+      },
+      "properties": {
+        "id": 37407,
+        "date": "2018-04-10 08:00:23",
+        "title": "Clarissa Meier: Big Mama im Soldiner Kiez",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37407",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3767,
+          52.5081
+        ]
+      },
+      "properties": {
+        "id": 37436,
+        "date": "2018-04-11 08:00:19",
+        "title": "Zur Demo gegen Mietsteigerungen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37436",
+        "thumbnail": "http://mietenwahnsinn.info/wp-content/uploads/sites/9/2018/03/Mietenwahnsinn-widersetzen-Sharing-Button.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3628,
+          52.5477
+        ]
+      },
+      "properties": {
+        "id": 37386,
+        "date": "2018-04-14 08:05:08",
+        "title": "Ich und mein himmel-Beet #1",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37386",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/himmelbeet2018-einzug-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3564,
+          52.5528
+        ]
+      },
+      "properties": {
+        "id": 37466,
+        "date": "2018-04-16 08:15:37",
+        "title": "Mehr Digitalisierung für die Müllerstraße?",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37466",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/Workshop-Digitalisierung-300x244.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3782,
+          52.5466
+        ]
+      },
+      "properties": {
+        "id": 37657,
+        "date": "2018-04-17 08:06:39",
+        "title": "Unverblümt #20: Kulturexpedition von Turm zu Turm",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37657",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/Girlie2-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3614,
+          52.5494
+        ]
+      },
+      "properties": {
+        "id": 37589,
+        "date": "2018-04-18 08:13:55",
+        "title": "Hübsch bist Du geworden, kleine Motte!",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37589",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/motte1-300x228.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3421,
+          52.5535
+        ]
+      },
+      "properties": {
+        "id": 37793,
+        "date": "2018-04-20 07:42:04",
+        "title": "Neue Straßennamen, alte Probleme",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37793",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/05/IMG_20170531_160322_1-180x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3822,
+          52.5496
+        ]
+      },
+      "properties": {
+        "id": 37795,
+        "date": "2018-04-21 08:20:08",
+        "title": "Wilde 17: Garten in Gründung",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37795",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/wilde17-blickrein.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3515,
+          52.5411
+        ]
+      },
+      "properties": {
+        "id": 37617,
+        "date": "2018-04-24 08:13:38",
+        "title": "Einfach nur Café Rosa",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37617",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/Cafe-Rosa-Sara-180x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3962,
+          52.5401
+        ]
+      },
+      "properties": {
+        "id": 37865,
+        "date": "2018-04-25 08:10:13",
+        "title": "Sprecht ein Machtwort für den Garten!",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37865",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/garten-stralsunder-3-200x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3559,
+          52.5473
+        ]
+      },
+      "properties": {
+        "id": 37831,
+        "date": "2018-04-25 14:15:01",
+        "title": "Beiträge für \"Mein Wedding\" auf der Müllerstraße gesucht",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37831",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/Plakatgestaltung-im-Rahmen-von-„mein-wedding-4“-2017-auf-der-Müllerstraße.-Foto-Fanke.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3939,
+          52.5386
+        ]
+      },
+      "properties": {
+        "id": 37913,
+        "date": "2018-04-26 08:09:12",
+        "title": "Klappt ein Neustart an der Ernst-Reuter-Schule?",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37913",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/ERO-Lasic-Saleh3-300x203.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3719,
+          52.5484
+        ]
+      },
+      "properties": {
+        "id": 37709,
+        "date": "2018-04-27 08:05:15",
+        "title": "Kiki Sol: Jam-Sessions im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37709",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/kiki-sol4-300x198.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3383,
+          52.5583
+        ]
+      },
+      "properties": {
+        "id": 37990,
+        "date": "2018-04-28 08:20:52",
+        "title": "Rote Beete: Mit einer Kanne Tee in den Garten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37990",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/logo-gruen_fer-300x231.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38,
+          52.5602
+        ]
+      },
+      "properties": {
+        "id": 38060,
+        "date": "2018-04-29 08:20:46",
+        "title": "Kolonie Wedding: Kunst vor der Linse",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38060",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/kolonie-wedding-rundgang-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3487,
+          52.5413
+        ]
+      },
+      "properties": {
+        "id": 37640,
+        "date": "2018-05-01 08:20:28",
+        "title": "Spicy Kitchen: Der milde Inder",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37640",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/Spicy-Kitchen-2-300x180.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3598,
+          52.5502
+        ]
+      },
+      "properties": {
+        "id": 38133,
+        "date": "2018-05-04 08:10:27",
+        "title": "Verliebt in ein Kimonokleid im Atelier Nuno",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38133",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/Impressionen-aus-dem-atelier-nuno-c-Foto-von-Susanne-Haun-5-300x252.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3319,
+          52.5614
+        ]
+      },
+      "properties": {
+        "id": 37995,
+        "date": "2018-05-05 08:18:18",
+        "title": "Ein Preis für Gärtner und Umweltschützer",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37995",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/logo-gruen_fer.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3645,
+          52.5495
+        ]
+      },
+      "properties": {
+        "id": 38148,
+        "date": "2018-05-07 08:03:21",
+        "title": "Weddinger Empfehlungen: Bücher über starke Frauen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38148",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/Buchcover-Malala-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3608,
+          52.5462
+        ]
+      },
+      "properties": {
+        "id": 38259,
+        "date": "2018-05-08 08:03:42",
+        "title": "40 Jahre im Wedding: Karstadt",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38259",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2013/07/img_20130707_120133-e1428927169375-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3905,
+          52.512
+        ]
+      },
+      "properties": {
+        "id": 38269,
+        "date": "2018-05-09 08:10:07",
+        "title": "Zu Besuch in der fremden Mitte von Berlin",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38269",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/mitte_quartier-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3797,
+          52.5445
+        ]
+      },
+      "properties": {
+        "id": 8031,
+        "date": "2018-05-12 08:53:00",
+        "title": "Humboldthain Club: Clubkultur im Wedding",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=8031",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/01/Humboldthain-Club-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3558,
+          52.5507
+        ]
+      },
+      "properties": {
+        "id": 38353,
+        "date": "2018-05-14 08:05:25",
+        "title": "BVG-Baustelle Seestraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38353",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/Ersatzverkehr-Tram-Seestr-e1525712405734-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.371,
+          52.5424
+        ]
+      },
+      "properties": {
+        "id": 38491,
+        "date": "2018-05-18 08:00:56",
+        "title": "Unverblümt Kulturexpedition #21: Tanzt vor dem Vulkan",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38491",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/Plakat21_Unverbluemt_DINA2_RZ_180509-212x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3924,
+          52.558
+        ]
+      },
+      "properties": {
+        "id": 38695,
+        "date": "2018-05-25 08:05:21",
+        "title": "Kulturpalast: Nach der Party ist vor der Party",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38695",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/kulturpalast3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3509,
+          52.5505
+        ]
+      },
+      "properties": {
+        "id": 38520,
+        "date": "2018-05-27 08:30:40",
+        "title": "\"L'Af\": Buntes Straßenfest in der Lüderitzstraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38520",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2012/05/dscn6120-e1459339345508-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3803,
+          52.5529
+        ]
+      },
+      "properties": {
+        "id": 30701,
+        "date": "2018-05-31 10:25:31",
+        "title": "Uferstudios: AUSUFERN ist zurück",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=30701",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2013/09/uferstudios-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3566,
+          52.542
+        ]
+      },
+      "properties": {
+        "id": 38865,
+        "date": "2018-06-01 08:00:56",
+        "title": "GESCHLOSSEN Saint Bess: Steinofen-Pizzeria mit dem besonderen Flair",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=38865",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/IMG_5399-300x212.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3491,
+          52.5412
+        ]
+      },
+      "properties": {
+        "id": 37892,
+        "date": "2018-06-08 08:06:53",
+        "title": "Séraline de Martinique: Schätze von der Insel",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=37892",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/Seraline-4-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3484,
+          52.5493
+        ]
+      },
+      "properties": {
+        "id": 39402,
+        "date": "2018-06-17 08:47:13",
+        "title": "MiLette: Eis und hauchdünne Köstlichkeiten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=39402",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/03/IMG-20190306-WA0022-500x294.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351,
+          52.5413
+        ]
+      },
+      "properties": {
+        "id": 39440,
+        "date": "2018-06-22 08:03:29",
+        "title": "Café Spazio: Antik & Nippes auf italienisch",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=39440",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/Antik-und-Nippes-Spazio.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3306,
+          52.5612
+        ]
+      },
+      "properties": {
+        "id": 39657,
+        "date": "2018-06-25 08:05:14",
+        "title": "Solarkocher, Sanddüne, versteckter Garten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=39657",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/dominique_autorenbild.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3554,
+          52.5452
+        ]
+      },
+      "properties": {
+        "id": 39772,
+        "date": "2018-06-26 08:59:43",
+        "title": "Namensgeber der Beuth-Hochschule war Antisemit",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=39772",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/beuth-buchstaben-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3767,
+          52.5529
+        ]
+      },
+      "properties": {
+        "id": 39724,
+        "date": "2018-06-28 12:30:13",
+        "title": "Kulturexpedition #22: Unverblümt trifft Ausufern",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=39724",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/Blac-Blob-300x168.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3499,
+          52.5407
+        ]
+      },
+      "properties": {
+        "id": 38543,
+        "date": "2018-06-29 08:00:37",
+        "title": "Neustart im EisKult Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de?p=38543&#038;preview=true&#038;preview_id=38543",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/Eiskult-2-500x334.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3891,
+          52.5357
+        ]
+      },
+      "properties": {
+        "id": 39754,
+        "date": "2018-06-30 08:20:21",
+        "title": "Verborgenes Paradies hinter Hotelmauern",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=39754",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/logo-gruen_fer.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.362,
+          52.5494
+        ]
+      },
+      "properties": {
+        "id": 39862,
+        "date": "2018-07-02 08:10:49",
+        "title": "Frühstück mit den Händlern aus der Müllerstraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=39862",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/susanne-haun-rund.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3624,
+          52.5512
+        ]
+      },
+      "properties": {
+        "id": 40019,
+        "date": "2018-07-06 08:08:48",
+        "title": "Wilda Wolf: Glamrock für die Kleiderstange",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40019",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/annike-keilen-rund-292x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3569,
+          52.5429
+        ]
+      },
+      "properties": {
+        "id": 40119,
+        "date": "2018-07-13 08:02:52",
+        "title": "Hubertha: Vietnamesische Küche in der Tegeler Straße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40119",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/07/P6170560.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3613,
+          52.5496
+        ]
+      },
+      "properties": {
+        "id": 40147,
+        "date": "2018-07-20 08:05:17",
+        "title": "Sonnenschein mit Streuseln bei Pingolino Eis",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40147",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/susanne-haun-rund.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3309,
+          52.5614
+        ]
+      },
+      "properties": {
+        "id": 40285,
+        "date": "2018-07-21 08:05:48",
+        "title": "Pflegeleichter Minigarten aus dem Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40285",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/dominique_autorenbild.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3321,
+          52.5552
+        ]
+      },
+      "properties": {
+        "id": 39922,
+        "date": "2018-07-24 08:25:13",
+        "title": "Gutenachtlauf: Tierschutz, Teamgeist und tolle Stimmung",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=39922",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/Vollmondlauf-Plogging-Gruppe-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3582,
+          52.5471
+        ]
+      },
+      "properties": {
+        "id": 40302,
+        "date": "2018-07-25 08:00:59",
+        "title": "Eine eigenartige Würdigung für Elise und Otto Hampel",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40302",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/08/IMG-20190816-WA0004-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3513,
+          52.5471
+        ]
+      },
+      "properties": {
+        "id": 40267,
+        "date": "2018-07-27 08:05:49",
+        "title": "Klein Zaches: Ein Herrengedeck beim Gentleman",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40267",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/07/Thorgen-Bloch-Autorenbild-298x300.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4239,
+          52.6295
+        ]
+      },
+      "properties": {
+        "id": 40397,
+        "date": "2018-07-28 08:10:50",
+        "title": "Ans Wasser, ins Grüne",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de?p=40397&#038;preview=true&#038;preview_id=40397",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/07/Nachbarschaftspreis.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3848,
+          52.5554
+        ]
+      },
+      "properties": {
+        "id": 40419,
+        "date": "2018-07-31 08:17:51",
+        "title": "Panke Parcours: Das Musikfestival im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40419",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/07/Nachbarschaftspreis.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3413,
+          52.5577
+        ]
+      },
+      "properties": {
+        "id": 40535,
+        "date": "2018-08-04 08:13:47",
+        "title": "City Kino Wedding: Zurück aus der Sommerpause",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40535",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/07/Nachbarschaftspreis.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3622,
+          52.5494
+        ]
+      },
+      "properties": {
+        "id": 40107,
+        "date": "2018-08-10 08:05:41",
+        "title": "Kunst und Gemütlichkeit bei Café Motte",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40107",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/08/Carrot-Cake-C-Cafe-Motte-500x497.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3872,
+          52.5495
+        ]
+      },
+      "properties": {
+        "id": 40661,
+        "date": "2018-08-13 08:06:11",
+        "title": "Curry-Baude: Eine Institution am Gesundbrunnen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40661",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/08/Curry-Baude-U-Bahn-Eingang-Gesundbrunnen-C-Samuel-Orsenne-1-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3753,
+          52.5459
+        ]
+      },
+      "properties": {
+        "id": 40733,
+        "date": "2018-08-17 08:00:56",
+        "title": "Wiesenburg On Air: Festival mit Musik und Kunst",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40733",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/07/Nachbarschaftspreis.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3608,
+          52.5498
+        ]
+      },
+      "properties": {
+        "id": 40798,
+        "date": "2018-08-21 08:00:10",
+        "title": "Spätsommerliche Unverblümt-Kulturexpedition #23",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40798",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/08/CairnMcBain_Foto-©-Jack-Thomas-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3691,
+          52.5477
+        ]
+      },
+      "properties": {
+        "id": 40796,
+        "date": "2018-08-24 08:08:28",
+        "title": "UPDATE: The Cedar – Entspannung an der Reinickendorfer Straße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40796",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/annike-keilen-rund-292x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3424,
+          52.5542
+        ]
+      },
+      "properties": {
+        "id": 40907,
+        "date": "2018-08-25 08:00:51",
+        "title": "Glücksfall grüner Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40907",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/08/IMG_20170821_161235_572-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3611,
+          52.5531
+        ]
+      },
+      "properties": {
+        "id": 40695,
+        "date": "2018-08-26 08:00:35",
+        "title": "„Der geheime Monat“ bei den Brauseboys",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de?p=40695&#038;preview=true&#038;preview_id=40695",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/11/IMG_20171116_171016_991-200x103.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3849,
+          52.5452
+        ]
+      },
+      "properties": {
+        "id": 41035,
+        "date": "2018-08-27 08:12:55",
+        "title": "Brunnenviertel: ein Stadtplaner blickt zurück",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41035",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3853,
+          52.5622
+        ]
+      },
+      "properties": {
+        "id": 40834,
+        "date": "2018-08-28 08:00:25",
+        "title": "Am Samstag: Konzert-Parcours an der Panke",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40834",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/08/panke-parcours-2017-sulamith3-300x185.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3356,
+          52.5552
+        ]
+      },
+      "properties": {
+        "id": 41061,
+        "date": "2018-08-29 15:30:23",
+        "title": "Freiluftkino Rehberge feiert - freier Eintritt für alle",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41061",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/08/10-Jahre-Freiluftkino-Rehberge.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3376,
+          52.5525
+        ]
+      },
+      "properties": {
+        "id": 40593,
+        "date": "2018-08-31 08:09:46",
+        "title": "Lokalkolorit inklusive im Restaurant FRABEA",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40593",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/08/Brunch-Frabea-300x169.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359,
+          52.5465
+        ]
+      },
+      "properties": {
+        "id": 40929,
+        "date": "2018-09-01 08:25:21",
+        "title": "Design dir dein kleines Schwarzes",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=40929",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/08/Plakat-Makerspace-294x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3791,
+          52.5597
+        ]
+      },
+      "properties": {
+        "id": 41228,
+        "date": "2018-09-02 11:26:34",
+        "title": "Ganz Berlin beim Panke Parcours - zum letzten Mal?",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41228",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347,
+          52.5546
+        ]
+      },
+      "properties": {
+        "id": 41274,
+        "date": "2018-09-03 08:02:32",
+        "title": "Mein Wedding 5: Zwölf Bilder für die Müllerstraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41274",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/dominique_autorenbild.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3857,
+          52.5561
+        ]
+      },
+      "properties": {
+        "id": 41302,
+        "date": "2018-09-04 08:30:28",
+        "title": "Hochbetrieb in der Fabrik Osloer Straße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41302",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/fabrik-aussen-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504,
+          52.5503
+        ]
+      },
+      "properties": {
+        "id": 41347,
+        "date": "2018-09-07 08:05:45",
+        "title": "Fredericks: Happy End am neuen Ort",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41347",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/Fredericks-innen-2-300x244.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3896,
+          52.5528
+        ]
+      },
+      "properties": {
+        "id": 41238,
+        "date": "2018-09-08 08:04:56",
+        "title": "Round not Square: Lesen und weiterrollen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41238",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/andreas-oertel-rund-300x295.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3391,
+          52.5585
+        ]
+      },
+      "properties": {
+        "id": 41366,
+        "date": "2018-09-10 08:00:49",
+        "title": "Lieblingsfilme im City Kino Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41366",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/autorenprotraet-dominique2018-486x500.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3521,
+          52.5405
+        ]
+      },
+      "properties": {
+        "id": 41550,
+        "date": "2018-09-11 08:05:10",
+        "title": "2 Tage Wedding: Ein Tag Jerusalem",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41550",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/2TageWeddingHeader2018-1-500x189.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3132,
+          52.5585
+        ]
+      },
+      "properties": {
+        "id": 41411,
+        "date": "2018-09-14 08:00:24",
+        "title": "Zum Würfel II: Frank Zanders Imbiss ist so Berlin",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41411",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/Currywurst-Zum-Würfel-250x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3625,
+          52.5478
+        ]
+      },
+      "properties": {
+        "id": 41629,
+        "date": "2018-09-15 08:22:43",
+        "title": "Ich und mein himmel-Beet #6",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41629",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/logo-gruen_fer.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3602,
+          52.5467
+        ]
+      },
+      "properties": {
+        "id": 41552,
+        "date": "2018-09-17 08:00:19",
+        "title": "Der Coffee Man, Herzkammer des Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41552",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/03/The-Coffee-Man-3-300x234.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3396,
+          52.5584
+        ]
+      },
+      "properties": {
+        "id": 41683,
+        "date": "2018-09-18 08:05:37",
+        "title": "Die Filme des Favourites Film Festivals 2018",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41683",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/autorenprotraet-dominique2018-486x500.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3577,
+          52.5472
+        ]
+      },
+      "properties": {
+        "id": 41343,
+        "date": "2018-09-21 08:04:38",
+        "title": "Damaskus Konditorei: Meisterbäcker des Orients",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41343",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/sherin-500x489.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3394,
+          52.5589
+        ]
+      },
+      "properties": {
+        "id": 41996,
+        "date": "2018-09-25 08:00:06",
+        "title": "Vier und ein halbes * fürs Favourites Film Festival",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41996",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3524,
+          52.5408
+        ]
+      },
+      "properties": {
+        "id": 41982,
+        "date": "2018-09-28 07:41:31",
+        "title": "Chamälion Coffee: Einzigartiges in der Torfstraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41982",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/Chamäleon-Torfstraße-außen-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.339,
+          52.5591
+        ]
+      },
+      "properties": {
+        "id": 42129,
+        "date": "2018-09-29 08:02:07",
+        "title": "Er ist wieder da! Der Kurzfilmwettbewerb",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42129",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/Logoleiste-Filmwettbewerb-2018-500x72.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3807,
+          52.5538
+        ]
+      },
+      "properties": {
+        "id": 41863,
+        "date": "2018-09-30 08:04:53",
+        "title": "Entspannter Flohmarkt am Pankeufer",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41863",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/Tresorfabrik-Bildhauerwerkstatt-2-233x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3752,
+          52.5464
+        ]
+      },
+      "properties": {
+        "id": 42145,
+        "date": "2018-10-01 08:15:49",
+        "title": "Unverblümt Kulturexpedition #24",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42145",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/www.facebook.com-Calmidown-photos-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3516,
+          52.5481
+        ]
+      },
+      "properties": {
+        "id": 41019,
+        "date": "2018-10-02 08:16:55",
+        "title": "\"The Berlin Book Nook\": 2nd Hand-Bücher im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41019",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/08/The-Berlin-Book-Nook-1-231x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3937,
+          52.5531
+        ]
+      },
+      "properties": {
+        "id": 42005,
+        "date": "2018-10-05 08:25:24",
+        "title": "Das Offside Wedding ist volljährig!",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42005",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/NNW_Kicker_mit_Xander_und_Lars_rechts-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3568,
+          52.5453
+        ]
+      },
+      "properties": {
+        "id": 42043,
+        "date": "2018-10-07 08:51:43",
+        "title": "Offene Hörsäle: 2. Kritische Orientierungswochen an der Beuth",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42043",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/beuth-buchstaben-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3737,
+          52.5443
+        ]
+      },
+      "properties": {
+        "id": 42387,
+        "date": "2018-10-08 14:00:16",
+        "title": "Tango auf den ersten Blick",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42387",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/Tangoloft-schauen-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3714,
+          52.5442
+        ]
+      },
+      "properties": {
+        "id": 42424,
+        "date": "2018-10-09 13:18:49",
+        "title": "Kommt zum Stammtisch in die DruckBar",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42424",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2014/07/stammtisch-300x198.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3478,
+          52.5529
+        ]
+      },
+      "properties": {
+        "id": 42477,
+        "date": "2018-10-10 08:18:46",
+        "title": "Läuft bei ihr? Tampons für obdachlose Frauen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42477",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/Insta_nichtrotwerden_URL-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3955,
+          52.5444
+        ]
+      },
+      "properties": {
+        "id": 42501,
+        "date": "2018-10-11 07:54:33",
+        "title": "Kundgebung für Soziokultur und gegen Abriss",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42501",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/autorenbild-ps-wedding.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3311,
+          52.5624
+        ]
+      },
+      "properties": {
+        "id": 42529,
+        "date": "2018-10-13 08:00:08",
+        "title": "Kapweg-Sperrung: Weniger Autos wären gut für alle",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42529",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/06/auto-bellermannstrac39fe-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3952,
+          52.5443
+        ]
+      },
+      "properties": {
+        "id": 42633,
+        "date": "2018-10-15 13:36:00",
+        "title": "Kundgebung gegen Abriss der alten Schule",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42633",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/autorenprotraet-dominique2018-486x500.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.372,
+          52.5444
+        ]
+      },
+      "properties": {
+        "id": 42084,
+        "date": "2018-10-16 08:08:00",
+        "title": "Druckbar Wedding: Nicht einfach nur Siebdruck",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42084",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/06/10888401_304284766447817_2580638256208043450_n-300x224.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3436,
+          52.5528
+        ]
+      },
+      "properties": {
+        "id": 41548,
+        "date": "2018-10-17 08:20:00",
+        "title": "Blue Panta Yoga: Wer mit dem Panther tanzt",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=41548",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/Blue-Panta-Yoga-Spiegel-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3572,
+          52.542
+        ]
+      },
+      "properties": {
+        "id": 26030,
+        "date": "2018-10-18 08:30:23",
+        "title": "Cozymazu: Das Taiwan-Gefühl",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=26030",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/10/Gastraum2-199x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3841,
+          52.5555
+        ]
+      },
+      "properties": {
+        "id": 42713,
+        "date": "2018-10-19 08:00:14",
+        "title": "Gedeih & Verderb: Stammkneipe an der Prinzenallee",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42713",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/gedeih_und_verderb_0918-02__32-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3784,
+          52.5439
+        ]
+      },
+      "properties": {
+        "id": 42630,
+        "date": "2018-10-22 06:00:44",
+        "title": "Flying Roasters mit eigenem Kaffeeladen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42630",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3899,
+          52.5439
+        ]
+      },
+      "properties": {
+        "id": 42698,
+        "date": "2018-10-23 08:00:40",
+        "title": "Too Good to Go: Mit einer App Weddinger Lebensmittel retten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42698",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/annike-keilen-rund-292x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3673,
+          52.5485
+        ]
+      },
+      "properties": {
+        "id": 42511,
+        "date": "2018-10-24 08:16:30",
+        "title": "Weddinger Empfehlungen: Bilderbücher über Großeltern",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42511",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/Buchcover-The-lines-on-Granmas-face.jpg-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3885,
+          52.5539
+        ]
+      },
+      "properties": {
+        "id": 42296,
+        "date": "2018-10-26 08:00:29",
+        "title": "800A: Ein Mix aus Bar und Theater",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42296",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/IMG_20171209_192933_883-1-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3626,
+          52.5497
+        ]
+      },
+      "properties": {
+        "id": 42305,
+        "date": "2018-10-27 08:09:04",
+        "title": "Obdachlos - eine Ausstellung mitten im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42305",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/susanne-haun-rund.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3935,
+          52.5561
+        ]
+      },
+      "properties": {
+        "id": 42967,
+        "date": "2018-10-30 07:35:12",
+        "title": "Schönheitskur für die Grüntaler Promenade",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42967",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/Herbstfest-web-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3493,
+          52.5405
+        ]
+      },
+      "properties": {
+        "id": 42363,
+        "date": "2018-10-31 08:00:44",
+        "title": "EisKult: Das herzhaft-süße Kiezcafé",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42363",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/Eiskult-4-300x258.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3597,
+          52.5466
+        ]
+      },
+      "properties": {
+        "id": 42989,
+        "date": "2018-11-05 08:07:00",
+        "title": "Kurze und langfristige Hilfe bei drohender Obdachlosigkeit",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42989",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/susanne-haun-rund.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3972,
+          52.5416
+        ]
+      },
+      "properties": {
+        "id": 43040,
+        "date": "2018-11-06 08:00:28",
+        "title": "Darf's ein bisschen Hirsch & Hase sein?",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43040",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/11/hirschhase3-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3816,
+          52.5535
+        ]
+      },
+      "properties": {
+        "id": 43092,
+        "date": "2018-11-09 08:31:18",
+        "title": "2 in 1: Koreanischer oder japanischer Mittagstisch",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43092",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/11/Japanisch-Koreanisch-Gesundbrunnen-4-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3571,
+          52.5413
+        ]
+      },
+      "properties": {
+        "id": 42835,
+        "date": "2018-11-14 08:07:53",
+        "title": "Schnitzeljagd und Poetry Slam im Sprengelkiez",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42835",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/schallrauch_fabriktheater-300x237.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3848,
+          52.5549
+        ]
+      },
+      "properties": {
+        "id": 34054,
+        "date": "2018-11-17 08:06:00",
+        "title": "Das Malör - Crêperie, Kaffeekeller und Bar",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=34054",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/03/IMG-20190308-WA0036-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3521,
+          52.541
+        ]
+      },
+      "properties": {
+        "id": 42878,
+        "date": "2018-11-17 08:18:13",
+        "title": "Studio Balu: Angebote ab dem Baby-Alter",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42878",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/3DEF7DFD-AD4F-4DAA-80E6-BE770AD3C192-300x209.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3889,
+          52.5404
+        ]
+      },
+      "properties": {
+        "id": 43360,
+        "date": "2018-11-19 07:00:02",
+        "title": "Lesung über das Spiel der Rechten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43360",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36,
+          52.5422
+        ]
+      },
+      "properties": {
+        "id": 42873,
+        "date": "2018-11-20 08:35:47",
+        "title": "GESCHLOSSEN Strudelka: Österreichische Genusskultur",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42873",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/50215674-EB2D-4EC3-A707-CC989421B295-300x162.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3606,
+          52.5467
+        ]
+      },
+      "properties": {
+        "id": 43354,
+        "date": "2018-11-21 08:00:46",
+        "title": "\"Der Wedding ist da, aber ich bin weg\"",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43354",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/11/Amma65-2-C-Grenzgänger-300x201.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3742,
+          52.5468
+        ]
+      },
+      "properties": {
+        "id": 43451,
+        "date": "2018-11-23 08:00:57",
+        "title": "Special Offers: Weddinger Bars noch günstiger genießen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43451",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/annike-keilen-rund-292x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3627,
+          52.5479
+        ]
+      },
+      "properties": {
+        "id": 43517,
+        "date": "2018-11-24 08:00:18",
+        "title": "Ich und mein himmel-Beet #8",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43517",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/11/IMG_20181028_164953-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.356,
+          52.5422
+        ]
+      },
+      "properties": {
+        "id": 11708,
+        "date": "2018-11-24 09:11:34",
+        "title": "Göttlich Essen und Trinken in der Tegeler Straße",
+        "post_status": "publish",
+        "post_url": "http://weddingweiser.wordpress.com/?p=11708",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/03/Göttlich-innen-Foto-Joachim-Faust-300x259.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3789,
+          52.5525
+        ]
+      },
+      "properties": {
+        "id": 43171,
+        "date": "2018-11-27 08:00:11",
+        "title": "Zwei glanzlose Partnerstädte des Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43171",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/11/IMG-20181108-WA0003-300x207.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3396,
+          52.5582
+        ]
+      },
+      "properties": {
+        "id": 43571,
+        "date": "2018-11-28 08:00:11",
+        "title": "Filme von Frauen beim Furora Film Festival",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43571",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/11/181126_Furora_Team-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358,
+          52.5468
+        ]
+      },
+      "properties": {
+        "id": 43629,
+        "date": "2018-11-29 07:47:28",
+        "title": "Quadratisch, praktisch, sauber: der neue Rathausplatz",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43629",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/11/IMG-20181128-WA0005-300x291.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3608,
+          52.5542
+        ]
+      },
+      "properties": {
+        "id": 43341,
+        "date": "2018-11-30 07:50:33",
+        "title": "3 mal leckerer Orient auf der Müllerstraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43341",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/damaskus-6-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3595,
+          52.5509
+        ]
+      },
+      "properties": {
+        "id": 43617,
+        "date": "2018-12-03 08:30:16",
+        "title": "Inventar des Wedding: Das Antiquariat Mackensen & Niemann",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43617",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/susanne-haun-rund.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.361,
+          52.5466
+        ]
+      },
+      "properties": {
+        "id": 43219,
+        "date": "2018-12-04 08:14:58",
+        "title": "Weddingmarkt wird doppelt weihnachtlich",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43219",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/11/WeddingmarktwirdWeihnachstmarkt_2018-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3734,
+          52.5342
+        ]
+      },
+      "properties": {
+        "id": 43563,
+        "date": "2018-12-05 08:42:43",
+        "title": "Europacity: Wird aus Nachbarschaft Freundschaft?",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43563",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/12/IMG-20181201-WA0006-300x227.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351,
+          52.5415
+        ]
+      },
+      "properties": {
+        "id": 43682,
+        "date": "2018-12-07 08:00:34",
+        "title": "Hanoi St.16: Fusions-Küche mit Straßenatmosphäre",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43682",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/03/16-Hanoi-St.-Restaurant-Samuel-Orsenne-2-300x225.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3701,
+          52.5449
+        ]
+      },
+      "properties": {
+        "id": 43792,
+        "date": "2018-12-10 08:00:03",
+        "title": "Unverblümtes Weihnachtsspecial auf dem Nettelbeckplatz",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43792",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/12/Feuer_TobiasRauch-300x285.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383,
+          52.5507
+        ]
+      },
+      "properties": {
+        "id": 42711,
+        "date": "2018-12-11 06:56:22",
+        "title": "Wedding als Metapher für Nahost / Buchkritik",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42711",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3773,
+          52.5529
+        ]
+      },
+      "properties": {
+        "id": 43832,
+        "date": "2018-12-12 08:18:14",
+        "title": "Tanzen gegen das Warten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43832",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/12/Tanzparty©Barbara_Weidner-300x201.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3809,
+          52.5479
+        ]
+      },
+      "properties": {
+        "id": 43423,
+        "date": "2018-12-14 08:00:08",
+        "title": "5 x Italien im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43423",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/Café-Rosa-e1523630791967-263x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3758,
+          52.5559
+        ]
+      },
+      "properties": {
+        "id": 42729,
+        "date": "2018-12-19 08:00:07",
+        "title": "Ein Leben als Fremde: Walli Nagels Erinnerungen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=42729",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3185,
+          52.5573
+        ]
+      },
+      "properties": {
+        "id": 43428,
+        "date": "2018-12-22 08:00:04",
+        "title": "Die Julius-Leber-Kaserne, terra incognita.",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43428",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/11/IMG-20181121-WA0000-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351,
+          52.5413
+        ]
+      },
+      "properties": {
+        "id": 43979,
+        "date": "2019-01-04 08:00:00",
+        "title": "Ganz selbstverständlich vegan: geh.veg",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=43979",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/12/veg-room-frühstück-2-300x284.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3691,
+          52.5477
+        ]
+      },
+      "properties": {
+        "id": 44359,
+        "date": "2019-01-11 08:00:02",
+        "title": "GESCHLOSSEN Aus Café wurde Green Fresh Falafel",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=44359",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/12/reinickendorfer-200x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3358,
+          52.5597
+        ]
+      },
+      "properties": {
+        "id": 44842,
+        "date": "2019-01-18 08:08:46",
+        "title": "KUSH: Brücke zwischen Orient und Afrika",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=44842",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/01/IMG-20190116-WA0006-300x230.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3569,
+          52.5429
+        ]
+      },
+      "properties": {
+        "id": 44781,
+        "date": "2019-01-25 08:00:59",
+        "title": "Chibee: Einfach koreanisch",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=44781",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/01/chibbee_section1-300x244.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358,
+          52.5468
+        ]
+      },
+      "properties": {
+        "id": 44879,
+        "date": "2019-01-30 08:10:26",
+        "title": "Zu übersichtlich? Neues Rathausumfeld",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=44879",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/01/Bibliothek-Lesegarten.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3644,
+          52.55
+        ]
+      },
+      "properties": {
+        "id": 45197,
+        "date": "2019-02-01 08:00:40",
+        "title": "ULT Ramen: In den Ramen gefallen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=45197",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/01/ULT-ramen-C-kruoramen-Instagram-296x300.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504,
+          52.5503
+        ]
+      },
+      "properties": {
+        "id": 45460,
+        "date": "2019-02-05 08:00:56",
+        "title": "Mit Puntolingua im Wedding italienisch lernen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=45460",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/susanne-haun-rund.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383,
+          52.5484
+        ]
+      },
+      "properties": {
+        "id": 45179,
+        "date": "2019-02-09 08:06:56",
+        "title": "Klettern im Wedding: Magic Mountain",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=45179",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/03/Magic-Mountain-Kletterhalle-Samuel-Orsenne-1-225x300.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3479,
+          52.5504
+        ]
+      },
+      "properties": {
+        "id": 45135,
+        "date": "2019-02-12 08:27:52",
+        "title": "Handwerkskunst bei Antares Keramik und Töpferei Schwarz",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=45135",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/02/Antares-Keramik-2-300x263.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3659,
+          52.5453
+        ]
+      },
+      "properties": {
+        "id": 45623,
+        "date": "2019-02-13 08:00:29",
+        "title": "69. Berlinale in der neuen Betonhalle im silent green Kulturquartier",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=45623",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/05/susanne-haun-rund.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3727,
+          52.5443
+        ]
+      },
+      "properties": {
+        "id": 45415,
+        "date": "2019-02-16 08:00:43",
+        "title": "Die Gerichtstraße 23",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=45415",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/02/Fabrik-23-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3391,
+          52.5584
+        ]
+      },
+      "properties": {
+        "id": 45840,
+        "date": "2019-02-18 07:05:13",
+        "title": "Auf dem roten Teppich in den Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=45840",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/02/berlinale-CKW-2019_7-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348,
+          52.5485
+        ]
+      },
+      "properties": {
+        "id": 45711,
+        "date": "2019-02-22 08:00:25",
+        "title": "Babàbar – das süße Leben an der Seestraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=45711",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/02/IMG-20190220-WA0019-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3852,
+          52.54
+        ]
+      },
+      "properties": {
+        "id": 45149,
+        "date": "2019-02-27 08:48:49",
+        "title": "DW TV: Aus'm Wedding in die Welt",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=45149",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/01/Deutsche-Welle-TV-Haupteingang-C-Jakob-Hensel-300x213.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3504,
+          52.5503
+        ]
+      },
+      "properties": {
+        "id": 46636,
+        "date": "2019-03-17 08:11:50",
+        "title": "Des Schneiders neue Räume",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=46636",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/03/P3058292.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3816,
+          52.54
+        ]
+      },
+      "properties": {
+        "id": 46853,
+        "date": "2019-03-20 05:59:07",
+        "title": "Deutsche Wohnen:  Wandbild ja, Heizung nein",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=46853",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3822,
+          52.558
+        ]
+      },
+      "properties": {
+        "id": 46809,
+        "date": "2019-03-24 08:45:46",
+        "title": "Nicht nur zu Gast im Wedding, sondern Teil davon: Hotel Big Mama",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=46809",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/03/IMG-20190316-WA0051-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3841,
+          52.5555
+        ]
+      },
+      "properties": {
+        "id": 46934,
+        "date": "2019-03-25 10:06:32",
+        "title": "Kostenloses Pubkonzert im Gedeih & Verderb",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=46934",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/10/gedeih_und_verderb_0918-02__47-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3644,
+          52.5565
+        ]
+      },
+      "properties": {
+        "id": 46301,
+        "date": "2019-03-26 08:49:21",
+        "title": "Ein neuer Typ Schule an der Reinickendorfer Straße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=46301",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/02/IMG-20190210-WA0025-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3376,
+          52.5525
+        ]
+      },
+      "properties": {
+        "id": 47151,
+        "date": "2019-03-31 10:54:11",
+        "title": "Sonntagsspaziergang: Frühblüher rund um den Plötzensee",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=47151",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/03/IMG-20190331-WA0013-300x202.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3822,
+          52.558
+        ]
+      },
+      "properties": {
+        "id": 46738,
+        "date": "2019-04-05 08:00:15",
+        "title": "Immer was los in Big Mama's Bar",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=46738",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/03/Bar0047-300x199.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3586,
+          52.5516
+        ]
+      },
+      "properties": {
+        "id": 47022,
+        "date": "2019-04-09 08:11:54",
+        "title": "Ein neuer Wein wie der Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=47022",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/02/wp-image-497292673jpg-300x169.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3678,
+          52.5479
+        ]
+      },
+      "properties": {
+        "id": 47277,
+        "date": "2019-04-10 08:00:05",
+        "title": "Ganz große Oper in der Moritz Bar",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=47277",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/08/Moritz-Bar-Stimmung-Bild-Lena-Meyer-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3705,
+          52.5475
+        ]
+      },
+      "properties": {
+        "id": 46900,
+        "date": "2019-04-14 08:00:01",
+        "title": "Grus Grus: Secondhand statt Fast Fashion",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=46900",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/03/Grus-Grus-6-500x336.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3586,
+          52.5516
+        ]
+      },
+      "properties": {
+        "id": 47468,
+        "date": "2019-04-23 08:00:37",
+        "title": "Waagerecht bis senkrecht: “Bingo” im Mastul",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=47468",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/04/57056205_1190130551160604_5008284166123421696_n-169x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383,
+          52.5484
+        ]
+      },
+      "properties": {
+        "id": 47640,
+        "date": "2019-04-26 08:05:03",
+        "title": "Süß und salzig die Wände hoch",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=47640",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/04/Süß-und-Salzig-Logo-300x300.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3599,
+          52.5473
+        ]
+      },
+      "properties": {
+        "id": 47527,
+        "date": "2019-05-01 08:00:02",
+        "title": "Weiter geht die Weddingmarkt-Saison!",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=47527",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/04/Weddingmarkt_Plakat_Mai_2019-212x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.362,
+          52.5451
+        ]
+      },
+      "properties": {
+        "id": 47561,
+        "date": "2019-05-03 08:00:33",
+        "title": "Max-Josef-Metzger-Platz vielfältig nutzbar",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=47561",
+        "thumbnail": "https://esperanto.berlin/wp-content/uploads/2019/04/MJM-Platz-2019-Apil-08.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3956,
+          52.5444
+        ]
+      },
+      "properties": {
+        "id": 48053,
+        "date": "2019-05-06 06:48:50",
+        "title": "Ex-Diesterweg: Runder Tisch soll vermitteln",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48053",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3694,
+          52.541
+        ]
+      },
+      "properties": {
+        "id": 47434,
+        "date": "2019-05-08 08:00:34",
+        "title": "Umfrage zum Weddingplatz",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=47434",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/04/190412_Weddingplatz_Umfrage_Entwurf._3-300x150.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3266,
+          52.5545
+        ]
+      },
+      "properties": {
+        "id": 48251,
+        "date": "2019-05-15 08:00:20",
+        "title": "Freiluftkino Rehberge: Weiter geht's im Zauberwald",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48251",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/05/c-freiluftkino-rehberge-e1431675756364-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3568,
+          52.5516
+        ]
+      },
+      "properties": {
+        "id": 48275,
+        "date": "2019-05-17 08:00:56",
+        "title": "\"Planlos\": Gelungener Spagat zwischen Café und Bar",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48275",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/05/IMG-20190513-WA0021.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4001,
+          52.5472
+        ]
+      },
+      "properties": {
+        "id": 48323,
+        "date": "2019-05-19 08:00:13",
+        "title": "Panke Trail: Platz fürs Rad",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48323",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/andrei-schnell-logo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3413,
+          52.5577
+        ]
+      },
+      "properties": {
+        "id": 48107,
+        "date": "2019-05-20 08:45:59",
+        "title": "Nachhaltigkeitstag in den Roten Beeten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48107",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/04/Rote-Beete6-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3503,
+          52.5461
+        ]
+      },
+      "properties": {
+        "id": 48363,
+        "date": "2019-05-21 08:00:57",
+        "title": "\"Krieg macht krank\" - Das Anti-Kriegs-Museum",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48363",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/Denkmal-Anti-Krieg-169x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.362,
+          52.5451
+        ]
+      },
+      "properties": {
+        "id": 48533,
+        "date": "2019-05-26 07:17:33",
+        "title": "Verspielt und unverblümt",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48533",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/05/Plakat27_Unverbluemt_DINA2_RZ_190515-212x300.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3659,
+          52.5453
+        ]
+      },
+      "properties": {
+        "id": 48164,
+        "date": "2019-05-28 08:05:06",
+        "title": "Berliner Weiße-Gipfel im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48164",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/06/IMG_20170618_161753_933-131x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.331,
+          52.542
+        ]
+      },
+      "properties": {
+        "id": 48598,
+        "date": "2019-06-01 08:00:47",
+        "title": "Neuer Glanz fürs Strandbad Plötzensee",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48598",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/03/Kasse-C-Strandbad-Plötzensee-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3802,
+          52.549
+        ]
+      },
+      "properties": {
+        "id": 47003,
+        "date": "2019-06-07 08:00:04",
+        "title": "Tradition: Möbel an der Pankstraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=47003",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/05/IMG-20190514-WA0024-300x195.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385,
+          52.552
+        ]
+      },
+      "properties": {
+        "id": 48849,
+        "date": "2019-06-12 08:00:31",
+        "title": "Nicht nur für Kids da: das Musikstudio Shiro",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48849",
+        "thumbnail": "https://www.youtube.com/embed/yLADacznzec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3678,
+          52.5479
+        ]
+      },
+      "properties": {
+        "id": 48984,
+        "date": "2019-06-14 08:00:09",
+        "title": "Die Moritz Bar schließt - Zukunft des Ladens ungewiss",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48984",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/06/Moritz-Bar-Drink-2_Lena-Meyer-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3678,
+          52.5479
+        ]
+      },
+      "properties": {
+        "id": 49019,
+        "date": "2019-06-21 08:00:20",
+        "title": "Trattoria Vivo: Italienurlaub im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49019",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/06/vivo1-200x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3705,
+          52.5445
+        ]
+      },
+      "properties": {
+        "id": 30712,
+        "date": "2019-06-21 08:50:05",
+        "title": "Mirage: Die Erscheinung am Nettelbeckplatz",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=30712",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/09/Mirage-Sonnenterrasse-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36,
+          52.5432
+        ]
+      },
+      "properties": {
+        "id": 48981,
+        "date": "2019-06-25 08:00:01",
+        "title": "Eschenbräu: Gebrautes und Gebranntes im Biergarten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48981",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/06/Eschenbräu-280x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.345,
+          52.5553
+        ]
+      },
+      "properties": {
+        "id": 49133,
+        "date": "2019-06-28 08:00:27",
+        "title": "Bar „Drehmoment“: Verrucht, aber nicht verraucht",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49133",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/06/Ofener-Ecke-Glasgower-Drehmoment-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3815,
+          52.5598
+        ]
+      },
+      "properties": {
+        "id": 48720,
+        "date": "2019-07-05 08:00:30",
+        "title": "Baobab: Die Ausnahmeerscheinung",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=48720",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/05/IMG-20190528-WA0003-300x205.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3606,
+          52.5542
+        ]
+      },
+      "properties": {
+        "id": 49270,
+        "date": "2019-07-10 08:00:33",
+        "title": "Eine Lehrpraxis für Osteopathie",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49270",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/08/IMG-20190820-WA0002-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358,
+          52.5468
+        ]
+      },
+      "properties": {
+        "id": 49329,
+        "date": "2019-07-16 08:00:51",
+        "title": "Platz für alle auf der Müllerstraße schaffen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49329",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/06/IMG-20190615-WA0001-283x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3659,
+          52.5453
+        ]
+      },
+      "properties": {
+        "id": 49437,
+        "date": "2019-07-17 09:44:16",
+        "title": "Bauhaus100: Sommer-Schule \"Spinning Triangles\" im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49437",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/07/457A0121-200x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.333,
+          52.551
+        ]
+      },
+      "properties": {
+        "id": 49380,
+        "date": "2019-07-19 08:00:32",
+        "title": "Verfallendes Parkcafé Rehberge: Auf die lange Bank geschoben",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49380",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2012/05/dscn4320-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358,
+          52.5468
+        ]
+      },
+      "properties": {
+        "id": 49529,
+        "date": "2019-07-22 09:48:26",
+        "title": "\"Rathausvorplatz\": Alkoholkonsum und Fahrradfahren verboten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49529",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/07/Elise-und-Otto-Hampel-Weg-Rathaus-Straßenschild-218x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3257,
+          52.5417
+        ]
+      },
+      "properties": {
+        "id": 49573,
+        "date": "2019-07-24 09:54:58",
+        "title": "Es tut sich viel am Strandbad Plötzensee",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49573",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/07/Beachsoccer-Plötzensee-300x150.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385,
+          52.5569
+        ]
+      },
+      "properties": {
+        "id": 49373,
+        "date": "2019-07-26 08:00:26",
+        "title": "Wiederauferstanden: \"Holz & Farbe\" in der Prinzenallee",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49373",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/07/IMG-20190713-WA0037-300x246.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3266,
+          52.5545
+        ]
+      },
+      "properties": {
+        "id": 49582,
+        "date": "2019-07-29 07:30:59",
+        "title": "Die zweite Saisonhälfte im Freiluftkino Rehberge",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49582",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2015/05/c-freiluftkino-rehberge-e1431675756364-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.348,
+          52.5485
+        ]
+      },
+      "properties": {
+        "id": 49695,
+        "date": "2019-08-14 08:08:23",
+        "title": "Zu Besuch in einem bulgarischen Tante-Emma-Laden",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=49695",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/07/IMG-20190728-WA0000-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3257,
+          52.5417
+        ]
+      },
+      "properties": {
+        "id": 50315,
+        "date": "2019-08-23 08:00:34",
+        "title": "\"Inflagranti\": Pizza am Strand",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50315",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/08/Inflagranti-Pizza-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3802,
+          52.5539
+        ]
+      },
+      "properties": {
+        "id": 50158,
+        "date": "2019-08-25 08:00:47",
+        "title": "Die Entdeckung der Panke-Insel (Teil 1)",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50158",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/08/Pankemühle-240x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378,
+          52.5548
+        ]
+      },
+      "properties": {
+        "id": 50344,
+        "date": "2019-08-28 08:03:41",
+        "title": "Die freundliche Übernahme der Oh!Calcutta-Bar",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50344",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/08/Oh-Calcutta-DJ-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3858,
+          52.5524
+        ]
+      },
+      "properties": {
+        "id": 50526,
+        "date": "2019-09-01 08:00:30",
+        "title": "MyDaddy's Gelateria: Sorten wie im Prenz'lberg",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50526",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/08/Gelateria-Grüntaler-Str-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358,
+          52.5395
+        ]
+      },
+      "properties": {
+        "id": 50425,
+        "date": "2019-09-04 08:00:31",
+        "title": "Neue Verkehrsführung im Sprengelkiez",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50425",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/09/BVG-Bus-142-300x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376,
+          52.5525
+        ]
+      },
+      "properties": {
+        "id": 50354,
+        "date": "2019-09-14 08:00:56",
+        "title": "Die Entdeckung der Panke-Insel (Teil 2)",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50354",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2012/02/810-a-l-090100-uferstudios-002-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.372,
+          52.5433
+        ]
+      },
+      "properties": {
+        "id": 50787,
+        "date": "2019-09-18 12:00:28",
+        "title": "Schubkraft für die Pankonauten",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50787",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/09/Baustelle_Pankonauten-1-300x200.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3622,
+          52.5494
+        ]
+      },
+      "properties": {
+        "id": 50652,
+        "date": "2019-09-20 08:00:59",
+        "title": "Café Jojo: Ein familienfreundlicher Ort",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50652",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/09/IMG_20190908_123420-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3858,
+          52.5524
+        ]
+      },
+      "properties": {
+        "id": 50936,
+        "date": "2019-09-23 08:00:40",
+        "title": "Der unterirdische Koloss von der Bellermannstraße",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50936",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/03/abwasser-gully-dh-200x133.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3822,
+          52.5496
+        ]
+      },
+      "properties": {
+        "id": 44916,
+        "date": "2019-09-27 08:00:30",
+        "title": "Die Kunstkantine Baldon im LOBE Block",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=44916",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/01/IMG-20190127-WA0030-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3484,
+          52.5493
+        ]
+      },
+      "properties": {
+        "id": 46501,
+        "date": "2019-09-29 08:00:47",
+        "title": "IVOOO: Raum für Kreatives",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=46501",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/03/IVOOO-Atelier-Außen-C-Ivo-Hofste-279x300.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351,
+          52.5433
+        ]
+      },
+      "properties": {
+        "id": 51101,
+        "date": "2019-10-08 08:00:59",
+        "title": "Wie sich die Atzen gegen Fake News und Hate Speech stemmen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=51101",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/09/ATZE_Hühneroper_038_resized_20190926_081440985-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.372,
+          52.5433
+        ]
+      },
+      "properties": {
+        "id": 51312,
+        "date": "2019-10-15 11:00:33",
+        "title": "PopUp-Kino in der zukünftigen Kita",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=51312",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/10/Pankonauten-Ravenestr-e1571129661104-225x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3484,
+          52.5493
+        ]
+      },
+      "properties": {
+        "id": 50667,
+        "date": "2019-10-18 08:00:40",
+        "title": "Anna Diekmann: Schlichtes, einzigartiges Design",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=50667",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/09/Anna-Diekmann-Porzellan.-C-Ivo-Hofste-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378,
+          52.5528
+        ]
+      },
+      "properties": {
+        "id": 51525,
+        "date": "2019-11-05 08:00:31",
+        "title": "Wikipedia zum Anfassen im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=51525",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2017/01/Buttmannstraße-Nachbarschaftsladen-300x218.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3676,
+          52.5457
+        ]
+      },
+      "properties": {
+        "id": 51867,
+        "date": "2019-11-15 08:00:40",
+        "title": "MARS/Küche & Bar: Nachhaltig in einmaligem Ambiente",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=51867",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2020/02/kathamau_mars_portfolio_hr-13-200x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385,
+          52.5569
+        ]
+      },
+      "properties": {
+        "id": 51822,
+        "date": "2019-11-18 08:00:34",
+        "title": "Essen, trinken, diskutieren... über Osteuropa",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=51822",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/11/Osteuropatage-3-300x200.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3484,
+          52.5493
+        ]
+      },
+      "properties": {
+        "id": 51826,
+        "date": "2019-11-25 08:00:14",
+        "title": "10 Jahre Togobazar im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=51826",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2012/07/dscn6043-e1449565455226-300x225.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3734,
+          52.544
+        ]
+      },
+      "properties": {
+        "id": 51913,
+        "date": "2019-12-02 15:05:09",
+        "title": "Kunst im Karton: Mini-Kunstmesse im Wedding",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=51913",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2016/11/gerichtshoefe2-300x218.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3945,
+          52.5442
+        ]
+      },
+      "properties": {
+        "id": 52316,
+        "date": "2019-12-06 08:00:42",
+        "title": "Multi-Shop Eisenkralle: Oase in der Swinemünder",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=52316",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/12/eisenkralle-hist_bearb.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.358,
+          52.5468
+        ]
+      },
+      "properties": {
+        "id": 52376,
+        "date": "2019-12-09 08:19:27",
+        "title": "Stadtteilvertretung fordert: Ein Rathausvorplatz für alle!",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de/?p=52376",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2019/12/Platzordnung-Rathausvorplatz-200x300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3654,
+          52.5377
+        ]
+      },
+      "properties": {
+        "id": 39369,
+        "date": "2020-08-04 08:00:46",
+        "title": "Was wir über die neue S-Bahn zum Hauptbahnhof wissen",
+        "post_status": "publish",
+        "post_url": "https://weddingweiser.de?p=39369&#038;preview=true&#038;preview_id=39369",
+        "thumbnail": "https://weddingweiser.de/wp-content/uploads/2018/06/Hauptbahnhof.jpg"
+      }
+    }
+  ]
+}
