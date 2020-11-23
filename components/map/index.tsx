@@ -1,5 +1,5 @@
 import Map from './Map'
-import Marker from './Marker'
+import { Marker, ClusterMarker } from './Marker'
 
 
-export { Map, Marker }
+export { Map, Marker, ClusterMarker }

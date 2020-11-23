@@ -2,13 +2,17 @@ import React, { ReactElement } from 'react';
 import { Properties } from '../../types/geojson';
 
 interface MarkerProps {
-  text: string | number
   lat: number
   lng: number
-  children?: ReactElement
+  onClick?: any
+  children?: false | ReactElement
 }
 
-const Marker = ({ children, text }: MarkerProps) => {
+interface ClusterMarkerProps extends MarkerProps {
+  count: number
+}
+
+const Marker = ({ children }: MarkerProps) => {
 
   const markerStyle = { height: '9px', width: '24px', borderRadius: '50%', marginTop: '-3px' }
 
@@ -21,5 +25,12 @@ const Marker = ({ children, text }: MarkerProps) => {
   );
 };
 
+const ClusterMarker = ({ count, onClick }: ClusterMarkerProps) => (
+  <div onClick={onClick} className="rounded-full relative w-14 h-14 bg-blue-600 opacity-95 font-bold text-sm flex items-center flex-col leading-tight justify-center text-white text-center">
+    {count}
+    <span className="block font-light">Posts</span>
+  </div>
+);
 
-export default Marker
+
+export { Marker, ClusterMarker }
