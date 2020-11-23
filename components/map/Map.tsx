@@ -1,9 +1,11 @@
-import React, { DetailedHTMLProps, HTMLAttributes, ReactElement, useContext, useState } from 'react'
-import { Feature, MapFeatures, PostStatus, WeddingWeiserGeoJSON } from '../../types/geojson'
-import GoogleMapReact, { ChangeEventValue, Maps } from 'google-map-react';
+import React, { ReactElement, useContext, useRef, useState } from 'react'
+import { Feature, MapFeatures } from '../../types/geojson'
+import GoogleMapReact, { Bounds, ChangeEventValue, Maps } from 'google-map-react';
 import { Marker } from '.';
 import { Store, Types } from '../../context/MapContext';
-import { type } from 'os';
+import useSupercluster from 'use-supercluster';
+
+
 
 const loadMapFromLocalStorge = () => {
   if (process.browser) {
@@ -12,12 +14,27 @@ const loadMapFromLocalStorge = () => {
   }
 }
 
+const ClusterMarker = ({ children }) => children;
+
 function Map({ data }: MapFeatures): ReactElement {
   // const [mapPos] = useState<ChangeEventValue | undefined>(() => loadMapFromLocalStorge())
   const { state, dispatch } = useContext(Store)
+  const mapRef = useRef();
   const [mapPos] = useState<ChangeEventValue | undefined>(undefined)
   const [infoWindow, setInfoWindow] = useState<Feature>()
 
+  // get map bounds
+  const [bounds, setBounds] = useState<number[]>();
+  const [zoom, setZoom] = useState(10);
+
+  const { clusters, supercluster } = useSupercluster({
+    points: data,
+    bounds,
+    zoom,
+    options: { radius: 75, maxZoom: 20 },
+  });
+
+  console.log(clusters, supercluster)
 
   const mapDefaults = {
     center: {
@@ -28,17 +45,27 @@ function Map({ data }: MapFeatures): ReactElement {
   }
 
   const apiIsLoaded = (map: any, maps: Maps, data: Feature[]) => {
-    console.log("api is loaded")
+    mapRef.current = map;
+    console.log("MAP LOADED")
   }
 
+
+
   const saveMapToLocalStorage = (pos: ChangeEventValue) => {
+    setZoom(pos.zoom);
+    setBounds([
+      pos.bounds.nw.lng,
+      pos.bounds.se.lat,
+      pos.bounds.se.lng,
+      pos.bounds.nw.lat
+    ]);
+    console.log(zoom, bounds)
     localStorage.setItem('map', JSON.stringify(pos))
   }
 
 
   const closeInfo = (e: any) => {
     setInfoWindow(undefined)
-    // dispatch({ type: Types.Set, payload: { id: 0 } })
   }
 
 
@@ -55,35 +82,57 @@ function Map({ data }: MapFeatures): ReactElement {
         bootstrapURLKeys={{ key: 'AIzaSyAYuWsxkT5dUw3CPn8c9Kl0l98L2Xu60q0', language: 'de', region: 'DE' }}
         defaultCenter={mapDefaults.center}
         defaultZoom={mapDefaults.zoom}
+
         onGoogleApiLoaded={({ map, maps }) => apiIsLoaded(map, maps, data)}
         onChange={saveMapToLocalStorage}
         onChildMouseEnter={onChildClickCallback}
         yesIWantToUseGoogleMapApiInternals
       >
+        {clusters && clusters.map(cluster => {
+          const [longitude, latitude] = cluster.geometry.coordinates;
+          const {
+            cluster: isCluster,
+            point_count: pointCount
+          } = cluster.properties;
 
-        {data && data.map(place => (
-          <Marker
-            key={place.properties.id}
-            lng={place.geometry.coordinates[0]}
-            lat={place.geometry.coordinates[1]}
-            text={place.properties.id}
-          >
-            {(infoWindow?.properties.id == place.properties.id) ?
-              <div
-                id={`info-${place.properties.id}`}
-                onMouseLeave={closeInfo}
-                className="block px-4 py-3 w-56 text-sm bg-white shadow-xl  rounded-lg z-50 absolute -left-16 -top-16"
+          if (isCluster) {
+            return (
+              <ClusterMarker
+                key={`cluster-${cluster.id}`}
+                lat={latitude}
+                lng={longitude}
               >
-                <h4 className="py-2 text-center mx-auto font-bold text-sm leading-tight tracking-wide uppercase  text-gray-800 ">{place.properties.title}</h4>
-                <a href={place.properties.post_url} target="_blank" rel="noopener noreferrer"
-                  className=" cursor-pointer w-100 whitespace-nowrap transition-all flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-gray-800 bg-wedding md:py-1  md:px-2 uppercase tracking-wide">
-                  Beitrag lesen
-          </a>
-              </div>
-              : <></>
-            }
-          </Marker>
-        ))}
+                <div
+                  onClick={() => {
+                    const expansionZoom = Math.min(
+                      supercluster.getClusterExpansionZoom(cluster.id),
+                      20
+                    );
+                    mapRef.current.setZoom(expansionZoom);
+                    mapRef.current.panTo({ lat: latitude, lng: longitude });
+                  }}
+                  className="cluster-marker bg-blue-500 w-10 h-10 rounded-full flex items-center justify-center text-white"
+                >
+                  {pointCount}
+                </div>
+              </ClusterMarker>
+            );
+          }
+
+          return (
+            <ClusterMarker
+              key={`place-${cluster.properties.id}`}
+              lat={latitude}
+              lng={longitude}
+            >
+              <button className="crime-marker">
+                <img src="/assets/marker.svg" alt="marker" />
+              </button>
+            </ClusterMarker>
+          );
+        })}
+
+
 
 
       </GoogleMapReact>

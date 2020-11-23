@@ -14,12 +14,15 @@
     "next": "10.0.2",
     "postcss-import": "^13.0.0",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "supercluster": "^7.1.0",
+    "use-supercluster": "^0.2.9"
   },
   "devDependencies": {
     "@types/google-map-react": "^2.1.0",
     "@types/node": "^14.14.9",
     "@types/react": "^17.0.0",
+    "@types/supercluster": "^5.0.2",
     "autoprefixer": "^10.0.2",
     "postcss": "^8.1.9",
     "postcss-preset-env": "^6.7.0",
