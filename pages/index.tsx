@@ -2,7 +2,6 @@ import { GetServerSideProps } from 'next'
 import React from 'react'
 import fs from 'fs'
 import Layout from '../components/Layout'
-import { Places, WeddingWeiserGeoJSON } from '../types/types'
 import path from 'path'
 import MapFinder from '../components/MapFinder'
 

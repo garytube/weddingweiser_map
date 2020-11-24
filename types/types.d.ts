@@ -1,3 +1,4 @@
+
 interface WeddingWeiserGeoJSON {
   type: string;
   features: Feature[];
@@ -55,5 +56,3 @@ interface GoogleAPIProps {
     ref: Element | null
   }
 }
-
-

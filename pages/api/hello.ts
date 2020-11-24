@@ -3,7 +3,6 @@
 import { NextApiRequest, NextApiResponse } from "next"
 import fs from "fs"
 import path from "path";
-import { WeddingWeiserGeoJSON } from "../../types/types";
 
 export default (req: NextApiRequest, res: NextApiResponse) => {
   const filepath = path.join(__dirname, '/mapping.geojson')

@@ -1,5 +1,4 @@
 import React, { ReactElement } from 'react';
-import { Properties } from '../../types/types';
 
 interface MarkerProps {
   lat: number

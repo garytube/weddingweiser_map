@@ -1,5 +1,4 @@
 import React, { ReactElement } from 'react'
-import { Feature } from '../../types/types'
 
 interface Props {
   place: Feature
