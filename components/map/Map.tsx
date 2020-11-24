@@ -1,15 +1,15 @@
 import React, { ReactElement, useContext, useEffect, useRef, useState } from 'react'
 import { Feature, MapFeatures } from '../../types/geojson'
-import GoogleMapReact, { Bounds, ChangeEventValue, Maps } from 'google-map-react';
+import GoogleMapReact, { ChangeEventValue, MapOptions } from 'google-map-react';
 import { Marker, ClusterMarker } from '.';
-import { Store, Types } from '../../context/MapContext';
+import { Store } from '../../context/MapContext';
 import useSupercluster from 'use-supercluster';
 
 
 
 
 function Map({ data }: MapFeatures): ReactElement {
-  const mapRef = useRef<React.MutableRefObject<any>>();
+  const mapRef = useRef<google.maps.Map>();
   const { state, dispatch } = useContext(Store)
   const [infoWindow, setInfoWindow] = useState<Feature>()
 
@@ -27,17 +27,16 @@ function Map({ data }: MapFeatures): ReactElement {
 
 
   useEffect(() => {
-    console.log(state.id)
     const selectedPlace = data.find(p => p.properties.id == state.id)
-    if (selectedPlace) {
+    if (selectedPlace && mapRef.current) {
       const [lng, lat] = selectedPlace?.geometry.coordinates!
-      mapRef.current!.setZoom(18)
-      mapRef.current!.panTo({ lat, lng })
+      mapRef.current.setZoom(18)
+      mapRef.current.panTo({ lat, lng })
     }
   }, [state.id]);
 
 
-  const mapDefaults = {
+  const mapDefaults: google.maps.MapOptions = {
     center: {
       lat: 52.5458,
       lng: 13.365
