@@ -1,5 +1,4 @@
 import React from 'react';
-import { CardProps } from '../sidebar/Sidebar';
 
 
 export const Card = (props: CardProps) => (

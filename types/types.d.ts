@@ -1,24 +1,28 @@
-export interface WeddingWeiserGeoJSON {
+interface WeddingWeiserGeoJSON {
   type: string;
   features: Feature[];
 }
 
-export interface Feature {
+interface Feature {
   type: FeatureType;
   geometry: Geometry;
   properties: Properties;
 }
 
-export interface Geometry {
+interface Geometry {
   type: GeometryType;
   coordinates: number[];
 }
 
-export enum GeometryType {
+enum GeometryType {
   Point = "Point",
 }
 
-export interface Properties {
+interface CardProps extends Properties {
+  onClick: React.MouseEventHandler<HTMLButtonElement>
+}
+
+interface Properties {
   id: number;
   date: Date;
   title: string;
@@ -27,19 +31,29 @@ export interface Properties {
   thumbnail: string;
 }
 
-export enum PostStatus {
+enum PostStatus {
   Publish = "publish",
   Unpublished = "unpublished",
 }
 
-export enum FeatureType {
+enum FeatureType {
   Feature = "Feature",
 }
 
-export interface MapFeatures {
+interface MapFeatures {
   data: Feature[]
 }
 
-export interface Places {
+interface Places {
   places: WeddingWeiserGeoJSON
 }
+
+interface GoogleAPIProps {
+  maps: {
+    map: any,
+    maps: any,
+    ref: Element | null
+  }
+}
+
+

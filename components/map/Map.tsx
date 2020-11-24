@@ -1,6 +1,5 @@
 import React, { ReactElement, useContext, useEffect, useRef, useState } from 'react'
-import { Feature, MapFeatures } from '../../types/geojson'
-import GoogleMapReact, { ChangeEventValue, MapOptions } from 'google-map-react';
+import GoogleMapReact, { ChangeEventValue } from 'google-map-react';
 import { Marker, ClusterMarker } from '.';
 import { Store } from '../../context/MapContext';
 import useSupercluster from 'use-supercluster';
@@ -24,8 +23,6 @@ function Map({ data }: MapFeatures): ReactElement {
     options: { radius: 75, maxZoom: 18 },
   });
 
-
-
   useEffect(() => {
     const selectedPlace = data.find(p => p.properties.id == state.id)
     if (selectedPlace && mapRef.current) {
@@ -36,7 +33,7 @@ function Map({ data }: MapFeatures): ReactElement {
   }, [state.id]);
 
 
-  const mapDefaults: google.maps.MapOptions = {
+  const mapDefaults = {
     center: {
       lat: 52.5458,
       lng: 13.365
@@ -46,6 +43,9 @@ function Map({ data }: MapFeatures): ReactElement {
 
 
 
+  const handleGoogleApiLoaded = ({ maps }: GoogleAPIProps): void => {
+    mapRef.current = maps.map;
+  }
 
   const handleMapChange = (pos: ChangeEventValue) => {
     setZoom(pos.zoom);
@@ -75,7 +75,7 @@ function Map({ data }: MapFeatures): ReactElement {
         bootstrapURLKeys={{ key: process.env.NEXT_PUBLIC_MAPS_KEY || '', language: 'de', region: 'DE' }}
         defaultCenter={mapDefaults.center}
         defaultZoom={mapDefaults.zoom}
-        onGoogleApiLoaded={({ map }) => { mapRef.current = map; }}
+        onGoogleApiLoaded={handleGoogleApiLoaded}
         onChange={handleMapChange}
         onChildMouseEnter={onChildClickCallback}
         yesIWantToUseGoogleMapApiInternals

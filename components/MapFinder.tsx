@@ -1,6 +1,5 @@
 import React, { ReactElement } from 'react';
 import MapContext from '../context/MapContext';
-import { Places } from '../types/geojson';
 import { Map } from './map';
 import { Sidebar } from './sidebar';
 

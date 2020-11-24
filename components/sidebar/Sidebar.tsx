@@ -1,11 +1,7 @@
 import React, { ReactElement, useContext, useEffect, useRef, useState } from 'react'
 import { Store, Types } from '../../context/MapContext';
-import { Feature, MapFeatures, Properties } from '../../types/geojson';
 import { Card } from '../map/Card';
 
-export interface CardProps extends Properties {
-  onClick: React.MouseEventHandler<HTMLButtonElement>
-}
 
 
 function Sidebar({ data }: MapFeatures): ReactElement {

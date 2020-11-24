@@ -1,8 +1,11 @@
-import React, { Dispatch, DispatchWithoutAction, useReducer } from 'react'
+import React, { useReducer } from 'react'
 
 interface MapState {
   id?: number
   title?: string,
+  selectedMapMarker?: number
+  selectedSidebarMarker?: number
+  mapRef?: google.maps.Map
 }
 
 // Initial Values
