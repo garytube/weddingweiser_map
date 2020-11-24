@@ -1,17 +1,15 @@
-import React, { ReactElement, useContext, useRef, useState } from 'react'
+import React, { ReactElement, useContext, useEffect, useRef, useState } from 'react'
 import { Feature, MapFeatures } from '../../types/geojson'
 import GoogleMapReact, { Bounds, ChangeEventValue, Maps } from 'google-map-react';
 import { Marker, ClusterMarker } from '.';
 import { Store, Types } from '../../context/MapContext';
-import useSupercluster, { UseSuperclusterArgument } from 'use-supercluster';
+import useSupercluster from 'use-supercluster';
 
-interface ClusterFeature extends Feature {
-  id: number
-}
+
 
 
 function Map({ data }: MapFeatures): ReactElement {
-  const mapRef = useRef() as React.MutableRefObject<any>;;
+  const mapRef = useRef<React.MutableRefObject<any>>();
   const { state, dispatch } = useContext(Store)
   const [infoWindow, setInfoWindow] = useState<Feature>()
 
@@ -23,8 +21,20 @@ function Map({ data }: MapFeatures): ReactElement {
     points: data,
     bounds,
     zoom,
-    options: { radius: 100, maxZoom: 20 },
+    options: { radius: 75, maxZoom: 18 },
   });
+
+
+
+  useEffect(() => {
+    console.log(state.id)
+    const selectedPlace = data.find(p => p.properties.id == state.id)
+    if (selectedPlace) {
+      const [lng, lat] = selectedPlace?.geometry.coordinates!
+      mapRef.current!.setZoom(18)
+      mapRef.current!.panTo({ lat, lng })
+    }
+  }, [state.id]);
 
 
   const mapDefaults = {
@@ -35,7 +45,7 @@ function Map({ data }: MapFeatures): ReactElement {
     zoom: 13
   }
 
-  console.log(mapRef.current)
+
 
 
   const handleMapChange = (pos: ChangeEventValue) => {
@@ -47,12 +57,16 @@ function Map({ data }: MapFeatures): ReactElement {
   const closeInfo = () => setInfoWindow(undefined)
 
 
-
-  const onChildClickCallback = (id: number) => {
-    console.log(id)
-    const selectedPlace = data.find(p => p.properties.id == id)
-    dispatch({ type: Types.Set, payload: { id } })
-    return selectedPlace ? setInfoWindow(selectedPlace) : undefined
+  const onChildClickCallback = (id: number, props: any) => {
+    console.log(id, props)
+    if (props.children == false) {
+      const selectedPlace = data.find(p => p.properties.id == id)
+      if (selectedPlace) {
+        // dispatch({ type: Types.Set, payload: { id } })
+        setInfoWindow(selectedPlace)
+        // return selectedPlace
+      }
+    }
   }
 
 
@@ -67,40 +81,39 @@ function Map({ data }: MapFeatures): ReactElement {
         onChildMouseEnter={onChildClickCallback}
         yesIWantToUseGoogleMapApiInternals
       >
-        {clusters.map(place => {
-          const { id } = place
-          const [lng, lat] = place.geometry.coordinates;
-          const { cluster: isCluster } = place.properties;
+        {clusters.map((cluster, i) => {
+          const [lng, lat] = cluster.geometry.coordinates;
+          const { cluster: isCluster } = cluster.properties;
 
           if (isCluster) {
             return (
               <ClusterMarker
-                key={`cluster-${place.id}`}
+                key={`cluster-${cluster.id}`}
                 lng={lng}
                 lat={lat}
-                count={place.properties.point_count}
+                count={cluster.properties.point_count}
                 onClick={() => {
-                  const expansionZoom = Math.min(supercluster?.getClusterExpansionZoom ? (Number(place.id) || 0) : 20)
-                  mapRef.current.setZoom(expansionZoom);
-                  mapRef.current.panTo({ lat, lng });
+                  const expansionZoom = Math.min(supercluster!.getClusterExpansionZoom(cluster.properties.cluster_id), 20)
+                  mapRef.current!.setZoom(expansionZoom);
+                  mapRef.current!.panTo({ lat, lng });
                 }}
               />
             );
           } else {
             return (
               <Marker
-                key={place.properties.id}
+                key={cluster.properties.id}
                 lng={lng}
                 lat={lat}
               >
-                {(infoWindow?.properties.id == place.properties.id) &&
+                {(infoWindow?.properties.id == cluster.properties.id) &&
                   <div
-                    id={`info-${place.properties.id}`}
+                    id={`info-${cluster.properties.id}`}
                     onMouseLeave={closeInfo}
                     className="block px-4 py-3 w-56 text-sm bg-white shadow-xl  rounded-lg z-50 absolute -left-16 -top-16"
                   >
-                    <h4 className="py-2 text-center mx-auto font-bold text-sm leading-tight tracking-wide uppercase  text-gray-800 ">{place.properties.title}</h4>
-                    <a href={place.properties.post_url} target="_blank" rel="noopener noreferrer"
+                    <h4 className="py-2 text-center mx-auto font-bold text-sm leading-tight tracking-wide uppercase  text-gray-800 ">{cluster.properties.title}</h4>
+                    <a href={cluster.properties.post_url} target="_blank" rel="noopener noreferrer"
                       className=" cursor-pointer w-100 whitespace-nowrap transition-all flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-gray-800 bg-wedding md:py-1  md:px-2 uppercase tracking-wide">
                       Beitrag lesen</a>
                   </div>
