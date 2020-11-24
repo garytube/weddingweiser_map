@@ -11,7 +11,7 @@ const Layout: FunctionComponent<LayoutProps> = ({ children, title }) => (
   <div className="flex flex-col justify-between box-border antialiased text-gray-900 bg-white max-h-screen">
     <Head>
       <title>{title} | die schönen Seiten des Wedding</title>
-      <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      <meta name="viewport" content="initial-scale=1.0, width=1920" />
     </Head>
     <header className="px-5 py-4 shadow-lg z-10 relative">
       <Image
